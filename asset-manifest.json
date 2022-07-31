@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/ios-calculator/static/css/main.490cde5e.chunk.css",
+    "main.js": "/ios-calculator/static/js/main.391414ae.chunk.js",
+    "main.js.map": "/ios-calculator/static/js/main.391414ae.chunk.js.map",
+    "runtime-main.js": "/ios-calculator/static/js/runtime-main.a15e3907.js",
+    "runtime-main.js.map": "/ios-calculator/static/js/runtime-main.a15e3907.js.map",
+    "static/js/2.a9e32767.chunk.js": "/ios-calculator/static/js/2.a9e32767.chunk.js",
+    "static/js/2.a9e32767.chunk.js.map": "/ios-calculator/static/js/2.a9e32767.chunk.js.map",
+    "index.html": "/ios-calculator/index.html",
+    "static/css/main.490cde5e.chunk.css.map": "/ios-calculator/static/css/main.490cde5e.chunk.css.map",
+    "static/js/2.a9e32767.chunk.js.LICENSE.txt": "/ios-calculator/static/js/2.a9e32767.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a15e3907.js",
+    "static/js/2.a9e32767.chunk.js",
+    "static/css/main.490cde5e.chunk.css",
+    "static/js/main.391414ae.chunk.js"
+  ]
+}
